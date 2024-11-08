@@ -1,15 +1,5 @@
 Título: **_Sistema de Investimento em Cripto Ativos_**
 
-**_Nome da Equipe: TDMI_**
-
-**_Membros da Equipe:_**
-
-- **_Thiago Degan de Melo – RM99380_**
-
-**_Data: 21/06/2024_**
-
-**_Versão: 1.0_**
-
 Sumário
 
 [Introdução 3](#_Toc169438809)
