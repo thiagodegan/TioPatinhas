@@ -154,6 +154,7 @@ public class UsuarioView extends BaseView {
 
                 System.out.print("Confirma a exclusão desse usuário, se já existir uma conta para esse usuário será" +
                         " necessário excluir ela primeiro (s/n)? ");
+
                 confirma = scanner.nextLine();
 
                 if (confirma.equalsIgnoreCase("s")){
